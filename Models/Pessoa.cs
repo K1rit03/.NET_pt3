@@ -8,10 +8,8 @@ namespace ExemploExplorando.Models
 
         public string Nome 
         { 
-            get
-            {
-                return _nome.ToUpper();
-            } 
+            get => _nome.ToUpper();
+             
             set 
             {
                 if (value == "") 
@@ -21,6 +19,9 @@ namespace ExemploExplorando.Models
                 _nome = value; // 
             } 
         }
+
+        public string Sobrenome { get; set; }
+        public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper(); 
 
         private int _idade;
         public int Idade 
@@ -39,7 +40,7 @@ namespace ExemploExplorando.Models
 
         public void Apresentar()
         {
-            Console.WriteLine($"Nome: {Nome}, idade: {Idade}");
+            Console.WriteLine($"Nome: {NomeCompleto}, idade: {Idade}");
         }  
     }
 }
