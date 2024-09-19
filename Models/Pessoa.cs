@@ -22,7 +22,20 @@ namespace ExemploExplorando.Models
             } 
         }
 
-        public int Idade { get; set; } 
+        private int _idade;
+        public int Idade 
+        { 
+                get{
+                    return _idade;
+                } 
+                set
+                {
+                    if (value < 0){
+                        throw new ArgumentException("O numero não pode ser negativo");
+                    } 
+                    _idade = value;   
+                }
+            } 
 
         public void Apresentar()
         {
