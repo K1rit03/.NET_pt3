@@ -1,0 +1,14 @@
+C:\Users\labsfiap\Desktop\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.exe
+C:\Users\labsfiap\Desktop\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.deps.json
+C:\Users\labsfiap\Desktop\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.runtimeconfig.json
+C:\Users\labsfiap\Desktop\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.dll
+C:\Users\labsfiap\Desktop\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.pdb
+C:\Users\labsfiap\Desktop\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.dll
+C:\Users\labsfiap\Desktop\ExemploExplorando\obj\Debug\net8.0\refint\ExemploExplorando.dll
+C:\Users\labsfiap\Desktop\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.pdb
+C:\Users\labsfiap\Desktop\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.genruntimeconfig.cache
+C:\Users\labsfiap\Desktop\ExemploExplorando\obj\Debug\net8.0\ref\ExemploExplorando.dll
